@@ -1,5 +1,5 @@
 # 直接上干货
-1. 下载pigcha加速器,[下载地址点我](http://pigcha.com?from=gitbrew)，注册登录后，点开始按钮
+1. 下载pigcha加速器,[下载地址点我](https://pigpigchacha.github.io/officialsite)，注册登录后，点开始按钮
 2. 最重要的来了！！！在托盘图标点代理控制台，如图
 ![img](https://cdn.processon.com/605b3a0b6376897007792fd3)
 3. 此时在弹出的来控制台，然后我们输入一个测试命令brew search go，效果非常好
